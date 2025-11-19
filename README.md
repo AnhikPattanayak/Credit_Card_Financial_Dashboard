@@ -9,7 +9,7 @@
 **📊 2. Year-to-Date (YTD) Financial Performance**
   **Total Revenue:** The platform generated **$57M YTD**, demonstrating solid financial performance.
 
-**Total Interest Earned:** Interest income contributed an additional **$8M**, reinforcing the        importance of active card usage and repayment behavior.
+  **Total Interest Earned:** Interest income contributed an additional **$8M**, reinforcing the                 importance of active card usage and repayment behavior.
 
  ** Total Transaction Amount:** Customers processed transactions worth **$46M**, reflecting healthy    card utilization across segments.
 
